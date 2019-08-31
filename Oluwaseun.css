@@ -1,0 +1,128 @@
+body{
+  background-color: #1F3A47;
+}
+
+.header{
+  color: #23A4AF
+}
+
+#hhh{
+  background-color: #069AF4;
+  color: red;
+  padding: 20px
+}
+
+#sss {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 6em;
+  height:6em;
+}
+
+
+
+#hh1{
+  list-style: none;
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+}
+
+#hhhh{
+  float: left;
+  list-style: none;
+}
+
+#objective{
+  clear: both;
+}
+
+#objective2{
+  color: white;
+  font-weight:bold;
+  font-family: arial;
+  font-size: 1.5em;
+}
+
+#sidebar{
+  width:20%;
+  background-color: #DCFF00;
+  padding: 45px;
+  float: left;
+}
+
+#content{
+  width: 70%;
+  float: right;
+}
+
+#edHeading{
+  color: white;
+  font-weight:bold;
+  font-family: arial;
+  font-size: 3em;
+  padding: none;
+
+}
+
+#ndHeading{
+  font-weight:bold;
+  font-family: arial;
+  font-size: 2em;
+  padding: none;
+  color: #069AF4;
+}
+
+#paragraph{
+  font-weight:bold;
+  font-family: arial;
+  font-size: 1.5em;
+  color: white;
+
+}
+
+#paragraph1{
+  color: #DCFF00;
+  font-size: 1.5em;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+#paragraph2{
+  color:white;
+  font-size: 1em;
+  font-family: arial;
+  /* font-style: italic; */
+}
+
+#sub_heading{
+  color:red;
+  font-size: 1em;
+  font-weight: bold;
+  font-family: arial
+}
+
+#sub_heading2{
+  color:blue;
+  font-size: 0.9em;
+  font-weight: bold;
+  font-family: arial
+}
+
+#sub_heading3{
+  color: red;
+  font-size: 1.5em;
+  font-weight: bold;
+  font-family: arial
+}
+
+#sub_heading4{
+  color: blue;
+  font-size: 1em;
+  font-weight: bold;
+  font-family: arial;
+  text-decoration: underline;
+  text-decoration-color: blue;
+  text-decoration-style: dashed;
+}
